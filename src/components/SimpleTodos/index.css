@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  height: 100%;
+  padding-bottom: 20px;
+}
+.simple-todos-card {
+  width: 90%;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  text-align: center;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+}
